@@ -1,0 +1,7 @@
+.env
+.idea
+venv
+.DS_Store
+*.pdf
+*.doc
+processed_objects.db
